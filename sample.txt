@@ -1,1 +1,5 @@
 sample text from PyCharm
+
+https://github.com/sn-a-fkin/kuriri_gitig2
+
+
